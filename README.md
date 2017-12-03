@@ -6,8 +6,6 @@ Code on Bitbucket https://bitbucket.org/vaemoi/revit
 ## rev's handy CLI sidekick
 
 ---
-## ATTENTION
-The gem name ```revit``` was taken by someone else but given back to rubygems and now we're waiting a few more days until it's available again! Until then the gem name is ```reivt``` only when installing (```gem install reivt```) , the cli command will still be ```revit```
 
 Upload your documents/directories/git commits to rev for a code review session!
 
